@@ -1,1 +1,1 @@
-# Public Bug Tracker for (Gavania)[https://hodasemi.itch.io/gavania]
+# Public Bug Tracker for [Gavania](https://hodasemi.itch.io/gavania)
